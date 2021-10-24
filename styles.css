@@ -144,15 +144,14 @@ li a{
     margin-left: 17%;
     justify-content: center; 
     text-align: left;
+    margin-bottom: 5%;
 }
 
 .testing p{
     text-align: left;
     padding-top: 1%;
     padding-right: 35%;
-
 }
-
 
 .btn{
     display: flex;
@@ -163,5 +162,34 @@ li a{
     text-decoration: none;
     padding: 1% 3%;
     margin: -10% 10%
-    
+}
+
+/* STORIES */
+
+.stories h2{
+    color: var(--navigation-hover_subscribe-color);
+}
+
+.article-body a{
+    text-decoration: none;
+    color: var(--navigation-hover_subscribe-color); 
+}
+
+.article-body{
+    font-size: var(--def-font-size);
+    padding-right: 10%;
+   
+}
+
+article img{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    margin-right: 4%;
+    margin-top: 25px;
+}
+
+article{
+    display: flex;
+    justify-content: space-around;
 }
