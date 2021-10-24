@@ -88,7 +88,6 @@ li a{
     padding: 30px;
     padding-left: 5%;
     border-radius: var(--border-radius);
-    
 }
 
 .overview-hero-text{
@@ -103,7 +102,6 @@ li a{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 1em;
-    
 }
 
 .card{
