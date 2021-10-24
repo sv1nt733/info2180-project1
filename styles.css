@@ -238,6 +238,9 @@ form button[type=submit]{
     margin: -5% 5%;
 }
 
+.newsletter .message{
+    margin: 2%;
+}
 /* FOOTER */
 
 footer{
